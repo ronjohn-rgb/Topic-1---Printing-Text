@@ -5,6 +5,8 @@
         static void Main(string[] args)
         {
             // Aron John E. Bautista
+
+            Console.WriteLine("Armadillo");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("I will print on a new line.");
 
